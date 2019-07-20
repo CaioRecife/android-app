@@ -1,2 +1,2 @@
 # android-app
-a android app make with kotlin
+a android app make with react native
